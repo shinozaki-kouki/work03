@@ -1,0 +1,214 @@
+@media (max-width: 860px) {
+  .sp {
+    display: none;
+  }
+  .header__title {
+    padding-top: 240px;
+    font-size: 80px;
+    font-weight: normal;
+    margin: 0 auto;
+  }
+  .header__title__sub {
+    word-spacing: 4px;
+  }
+
+  .work {
+    margin-bottom: 100px;
+  }
+
+  .work-img {
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+  .work p {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+  }
+  .concept-img {
+    width: 100%;
+  }
+  .concept-img img {
+    height: 200px;
+  }
+  .concept p {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+  }
+  .left-img {
+    margin-top: 80px;
+    margin-bottom: 100px;
+    width: 80%;
+    max-width: initial;
+    float: initial;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .left-img img {
+    display: block;
+    /* margin: 0 auto; */
+    width: 100%;
+    max-width: 335px;
+    height: 10px;
+    margin-left: -5px;
+  }
+  /* .left-img p {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+  } */
+  .right-img {
+    width: 80%;
+    max-width: initial;
+    float: initial;
+    /* margin-top: 160px; */
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right-img img {
+    display: block;
+    margin-left: -5px;
+    max-width: 335px;
+    height: 10px;
+    width: 100%;
+  }
+  .decoration {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  .decoration img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    /* max-width: 320px;
+    height: 10px; */
+    /* margin-left: -40px; */
+  }
+  .decoration h2 {
+    display: block;
+    margin: 0 auto;
+  }
+  .decoration p {
+    display: block;
+    margin: 0 auto;
+  }
+  .clearfix img {
+    width: 400px;
+    height: 400px;
+  }
+  .d-flex {
+    display: initial;
+    justify-content: initial;
+    align-items: initial;
+    text-align: center;
+    margin-top: 50px;
+    width: 100%;
+  }
+  .introduce {
+    width: 100%;
+    margin: initial;
+    margin-top: 50px;
+  }
+  .introduce img {
+    display: block;
+    margin: 0 auto;
+  }
+  .introduce h3 {
+    text-align: center;
+    font-size: 30px;
+  }
+  .introduce p {
+    text-align: center;
+  }
+
+  .information {
+    text-align: center;
+    height: 650px;
+    margin-top: 60px;
+    margin-bottom: 120px;
+    width: 100%;
+    max-width: 960px;
+  }
+  .info {
+    margin-top: 40px;
+    width: 100%;
+  }
+  .information-left {
+    float: initial;
+    width: 100%;
+    max-width: 90%;
+    margin: 0 auto;
+  }
+  .information-left img {
+    width: 80%;
+  }
+  .information-right {
+    float: initial;
+    width: 100%;
+    max-width: 98%;
+    margin-top: 30px;
+    margin: 0 auto;
+  }
+  .shopInformation__table {
+    width: 100%;
+    border-spacing: 16px;
+    text-align: left;
+    letter-spacing: 1.5px;
+    line-height: 2;
+    margin-top: 30px;
+  }
+  .footer {
+    position: relative;
+    height: 420px;
+    width: 100%;
+    margin-bottom: 24px;
+    margin-top: 200px;
+  }
+  .ft-image {
+    width: 100%;
+    height: 420px;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.6),
+        rgba(255, 255, 255, 0.6)
+      ),
+      url("img/contact_us.png");
+
+    background-size: cover;
+  }
+
+  .u-heading {
+    font-size: 26px;
+  }
+  .u-heading-florist {
+    font-size: 26px;
+  }
+  .u-heading-contact {
+    font-size: 26px;
+  }
+  .concept p {
+    padding-bottom: 40px;
+    line-height: 1.8;
+    letter-spacing: 1.4px;
+    font-size: 14px;
+  }
+  .work p {
+    margin-top: 20px;
+    color: #2b2b2b;
+    font-size: 14px;
+  }
+  .introduce p {
+    font: normal normal normal 14px Myriad Pro;
+    letter-spacing: 0px;
+    color: #2b2b2b;
+    opacity: 1;
+    text-align: left;
+    line-height: 30px;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+  }
+}
